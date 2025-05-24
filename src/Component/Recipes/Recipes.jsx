@@ -1,6 +1,6 @@
 
 import Recipe from './Recipe';
-import './recipes.css';
+import './Recipes.css';
 
 function Recipes({RecipeData}) {
 
