@@ -1,0 +1,19 @@
+#main{
+    display: flex;
+    justify-content: space-between;
+    color: white !important;
+
+}
+#sec_div{
+    
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;   
+
+}
+
+.dec_non{
+text-decoration: none;
+color: white;
+font-size: x-large;
+}
